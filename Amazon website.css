@@ -1,0 +1,107 @@
+*{
+    color: rgba(131, 151, 120, 0.679);
+}
+header{
+    float:right;
+    display: inside;
+    width:100%;
+    height: 60px;
+    background-color:rgb(22, 22, 21);
+}
+
+#second{
+font-size: 30px;
+height: 30px;
+margin-top:-80px;
+margin-left: 30%;
+}
+#second ul{
+    display:inline-block;
+}
+#second li{
+    display:inline-block;
+    color: gray;
+}
+#second a{
+    text-decoration:none;
+    color: rgb(192, 192, 192);
+    display:flex;
+    background-color: rgb(22, 22, 21);
+}
+#second a:hover{
+    color: white;
+    background-color: rgb(86, 78, 78);
+}
+#third{
+    font-size: 30px;
+    height: 30px;
+    margin-left: 70%;
+    margin-top: -30px;
+    }
+    #third ul{
+        display:inline-block;
+    }
+    #third li{
+        display:inline-block;
+        color: gray;
+    }
+    #third a{
+        text-decoration:none;
+        color: rgb(192, 192, 192);
+        display:flex;
+        background-color: rgb(22, 22, 21);
+    }
+    #third a:hover{
+        color: white;
+        background-color: rgb(86, 78, 78);
+    }
+.sign{
+width: 100%;
+height: 600px;
+background-color: rgb(47, 48, 45);
+}
+#sign-in{
+    border-radius: 4px;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 248;
+    height: 48px;
+    color:white;
+    padding: 14px 20px;
+    background-color: #0f79af;
+}
+p,h1{
+    background-color: white;
+}
+.rent{
+    font-size: 20px;
+    width: 100%;
+    height: 200px;
+background-color: brown;    
+}
+.channel{
+    font-size:20px;
+    width: 100%;
+    height: 800px;
+background-color: rgb(145, 238, 132);    
+}
+#chn-btn{
+    float: right;
+    margin-left: 60%;
+    margin-right: 80px;
+    margin-top: -103px;
+    display:flexbox;
+}
+.tv-stick{
+    font-size: 20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 100%;
+    height: 200px;
+background-color: rgb(117, 88, 235);    
+}
+.ftr{
+    width: 100%;
+    height: 200px;
+background-color: rgb(131, 114, 114);    
+}
+
+    
