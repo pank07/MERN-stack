@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+}
+#web{
+}
+#head{
+width: 1000px;
+height: 75px;
+background-color: green;
+}
+#topbar{
+    width: 1000px;
+    height: 70px;
+    margin-top: 30px;
+    background-color: brown;
+}
+#mid{
+display: flex;}
+#Prof{
+    width: 200px;
+    height: 500px;
+    background-color: rgb(197, 197, 8);
+}
+#sum{
+    width: 600px;
+    height: 500px;
+    background-color: lightblue;
+}
+#sub{
+    width: 600px;
+    height: 250px;
+    margin-top: 232px;
+    background-color: rgb(30, 129, 10);
+}
+#cart{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+}
+#social{
+    width: 200px;
+    height: 300px;
+    margin-left: 800px;
+    margin-top: -300px;
+    background-color: rgb(226, 43, 156);
+}
+#foot{
+    width: 1000px;
+    height: 75px;
+    background-color: darkcyan;
+}
